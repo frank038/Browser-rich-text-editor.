@@ -6,6 +6,7 @@ I only add some missed features to be used nowaday:
 - open and save
 - print
 - etc.
+
 Very basic.
 Images can be added by dropping them into the frame.
 
