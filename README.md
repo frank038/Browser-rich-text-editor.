@@ -9,3 +9,4 @@ I only add some missed features to be used nowaday:
 Very basic.
 Images can be added by dropping them into the frame.
 
+![My image](https://github.com/frank038/Browser-rich-text-editor./blob/main/Screenshot.png)
