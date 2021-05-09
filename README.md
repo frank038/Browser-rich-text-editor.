@@ -1,5 +1,6 @@
 # Browser-rich-text-editor.
 A simple rich text editor using html standards.
+It use a browser, doesn't install anything.
 
 I found this text editor some time ago. It is an old demo.
 I only add some missed features to be used nowaday:
