@@ -1,2 +1,11 @@
 # Browser-rich-text-editor.
-A simple rich text editor using html standard.
+A simple rich text editor using html standards.
+
+I found this text editor some time ago. It is an old demo.
+I only add some missed features to be used nowaday:
+- open and save
+- print
+- etc.
+Very basic.
+Images can be added by dropping them into the frame.
+
